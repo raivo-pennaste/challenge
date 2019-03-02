@@ -1,0 +1,24 @@
+# Generated files
+rebel.xml
+target/
+gen/
+log/
+dist/
+build/
+temp/
+tmp/
+.vscode/*
+
+#Eclipse specific ignores
+.classpath
+.settings/
+.springBeans
+#.project
+
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/*
+*.bat

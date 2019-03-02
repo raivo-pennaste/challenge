@@ -1,0 +1,1 @@
+java -jar challenge.jar dict.txt strongalloy

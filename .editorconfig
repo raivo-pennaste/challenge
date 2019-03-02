@@ -1,0 +1,35 @@
+[*.java]
+indent_style=space
+indent_size=4
+continuation_indent_size=4
+charset=utf-8
+insert_final_newline=false
+indent_style=space
+
+[{*.yml,*.yaml}]
+indent_style=space
+indent_size=2
+continuation_indent_size=4
+charset=utf-8
+insert_final_newline=false
+indent_style=space
+
+[*.md]
+trim_trailing_whitespace = false
+charset=utf-8
+insert_final_newline=false
+indent_style=space
+
+[*.xml]
+indent_style=space
+indent_size=2
+continuation_indent_size=4
+charset=utf-8
+insert_final_newline=false
+indent_style=space
+
+[*.jsp]
+trim_trailing_whitespace = true
+charset=utf-8
+insert_final_newline=false
+
